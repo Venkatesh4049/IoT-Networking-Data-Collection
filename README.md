@@ -46,3 +46,9 @@ This repository contains code and resources for an IoT data monitoring and loggi
 
 - [@Venkatesh4049](https://github.com/Venkatesh4049)
 
+## Google Sheets Data
+
+The sensor data collected by the ESP8266 microcontroller is logged into a Google Sheets document for easy visualization and analysis. You can access the live data and view historical records using the following link:
+
+[Google Sheets Data](https://docs.google.com/spreadsheets/d/1bMwGJG1JDO8-xLX91U8VLeVC9zSmNcJ0W1tW4ydkbBQ/edit#gid=0)
+
